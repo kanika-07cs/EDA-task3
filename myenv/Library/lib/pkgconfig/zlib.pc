@@ -1,0 +1,13 @@
+prefix=D:/AIWF/EDA_task3/myenv/Library
+exec_prefix=D:/AIWF/EDA_task3/myenv/Library
+libdir=D:/AIWF/EDA_task3/myenv/Library/lib
+sharedlibdir=D:/AIWF/EDA_task3/myenv/Library/lib
+includedir=D:/AIWF/EDA_task3/myenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
