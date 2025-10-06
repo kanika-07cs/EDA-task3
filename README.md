@@ -38,8 +38,8 @@ The Coffee Sales Dataset contains transactional information about coffee sales, 
 <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/37a41a67-2316-44f6-b29e-34d7184ee94b" />
 
 5. Predictive and Statistical Analysis
-- Correlation & Association Analysis: Identify relationships between features such as money and hour_of_day.
-<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/f5b50408-17ea-421d-a065-1bce9a640544" />
+- Correlation & Association Analysis: Identify relationshipsof numeric columns.
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/47777c5e-2ae3-45af-bcf4-0358ea40567f" />
 
 ## Techstack
 - Python: Core programming language for data analysis.
